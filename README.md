@@ -12,6 +12,11 @@
 <image src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <image src="https://img.shields.io/badge/GITHUB-20232A?style=for-the-badge&logo=github&logoColor=white" alt="git"/>
 <image src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/>
+<image src="https://img.shields.io/static/v1?style=for-the-badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=" alt="Kali Linux"/>
+  <image src="https://img.shields.io/static/v1?style=for-the-badge&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label=" alt="Anaconda"/>
+   <image src="https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=" alt="Android Studio"/>
+ <image src="https://img.shields.io/static/v1?style=for-the-badge&message=Wireshark&color=1679A7&logo=Wireshark&logoColor=FFFFFF&label=" alt="Wireshark"/>
+ 
 </p>
 <p> I’m learning about CCNA and pentesting</p>
 <p> 📫 You can reach me at my e-mail: saifamina99@gmail.com 
