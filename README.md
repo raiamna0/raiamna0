@@ -26,7 +26,7 @@
 <a href="mailto:saifamina99@gmail.com"> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/> </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raiamna0&theme=vue-dark)](https://git.io/streak-stats)
+
 
 <hr />
 <h3>Connect with me</h3>
