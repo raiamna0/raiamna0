@@ -19,7 +19,8 @@
  
 </p>
 <p> I make webpages/webapi using C# ASP.NET MVC</p>
-<p> I’m learning about python, CCNA and pentesting</p>
+<p> I’m learning about CISCO CCNA certified.</p>
+<p>Passionate about Python!</p>
 <p> 📫 You can reach me at my e-mail: saifamina99@gmail.com 
 </p>
 <hr />
