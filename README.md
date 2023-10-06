@@ -1,5 +1,8 @@
 ## 👋 Hi Geeks, I’m Amina Saif
 - 👀 A passionate Software Engineer, Cyber Security Enthusiast and a self-learner from Pakistan who is eager to learn new and exciting things!
+- I make webpages/webapi using C# ASP.NET MVC
+- I’m learning about CISCO CCNA certified.
+- Passionate about Python!
 - I code using
 <p>
 <image src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
@@ -18,9 +21,6 @@
  <image src="https://img.shields.io/static/v1?style=for-the-badge&message=Wireshark&color=1679A7&logo=Wireshark&logoColor=FFFFFF&label=" alt="Wireshark"/>
  
 </p>
-- I make webpages/webapi using C# ASP.NET MVC
-- I’m learning about CISCO CCNA certified.
-- Passionate about Python!
 <p> 📫 You can reach me at my e-mail: saifamina99@gmail.com 
 </p>
 <hr />
