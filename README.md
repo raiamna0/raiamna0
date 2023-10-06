@@ -18,9 +18,9 @@
  <image src="https://img.shields.io/static/v1?style=for-the-badge&message=Wireshark&color=1679A7&logo=Wireshark&logoColor=FFFFFF&label=" alt="Wireshark"/>
  
 </p>
-<p> I make webpages/webapi using C# ASP.NET MVC</p>
-<p> I’m learning about CISCO CCNA certified.</p>
-<p>Passionate about Python!</p>
+- I make webpages/webapi using C# ASP.NET MVC
+- I’m learning about CISCO CCNA certified.
+- Passionate about Python!
 <p> 📫 You can reach me at my e-mail: saifamina99@gmail.com 
 </p>
 <hr />
