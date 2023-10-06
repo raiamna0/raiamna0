@@ -1,7 +1,7 @@
 ## 👋 Hi Geeks, I’m Amina Saif
 - 👀 A passionate Software Engineer, Cyber Security Enthusiast and a self-learner from Pakistan who is eager to learn new and exciting things!
 - I make webpages/webapi using C# ASP.NET MVC
-- I’m learning about CISCO CCNA certified.
+- I’m CISCO CCNA certified.
 - Passionate about Python!
 - I code using
 <p>
